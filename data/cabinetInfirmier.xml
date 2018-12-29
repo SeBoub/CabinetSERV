@@ -69,7 +69,7 @@
                 L'intervenant qui prend en charge Axel est le n°2. Cet intervenant
                 ne travaille pas le mercredi et doit donc céder sa place à l'intervenant
                 n°1 ce jour là.
-                Lors de la dernière visite, l'intervenant doit aussi enlever les 25 points de suture de son opération.
+                Lors de la dernière visite, l'intervenant  doit aussi enlever les 25 points de suture de son opération.
                 -->
                 <visite date="2014-12-08" intervenant="003">
                     <acte id="109"/>               
@@ -165,7 +165,6 @@
                 <visite date="2014-12-08" intervenant="001">
                     <acte id="401"/>
                 </visite>
-                
         </patient>
         </patients>
     </cabinet>
