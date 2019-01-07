@@ -95,7 +95,7 @@
                 (Pansement de brûlure étendue ou de plaie chimique ou thermique étendue,
                     sur une surface supérieure à 5 % de la surface corporelle.....)
                 -->
-                <visite date="2014-12-08" intervenant="002">
+                <visite date="2014-12-08" intervenant="001">
                     <acte id="300"/>               
                 </visite>
                 
@@ -125,29 +125,6 @@
                 </visite>
                 
         </patient>
-        <patient>        
-            <nom>Xavier</nom>
-            <prénom>Kapoëtla</prénom>
-            <sexe>M</sexe>
-            <naissance>2010-08-02</naissance>
-            <!-- Garçon (4 ans) né en août 2010 en France, à Bordeaux (n° 63 dans la Gironde) 
-            35e naissance (clé calculée: 70)-->
-            <numéro>110083306303570</numéro>
-            <adresse>
-                <numéro>25</numéro>
-                <rue>rue des Martyrs</rue>
-                <ville>Grenoble</ville>
-                <codePostal>38042</codePostal>
-            </adresse>
-                <!-- 
-                Le jeune Xavier est en cours de désensibilation alergique.
-                Il doit recevoir tous les jours, l'injection de plusieurs allergènes, etc.
-                -->
-                <visite date="2014-12-08" intervenant="001">
-                    <acte id="111"/>               
-                </visite>
-                
-        </patient>
         <patient>
             <nom>Peplu</nom>
             <prénom>Jean</prénom>
@@ -162,9 +139,9 @@
                 <ville>Montbonnot-Saint-Martin</ville>
                 <codePostal>38330</codePostal>
             </adresse>
-                <visite date="2014-12-08" intervenant="001">
+                <visite date="2014-12-08" intervenant="002">
                     <acte id="401"/>
                 </visite>
         </patient>
-        </patients>
+    <patient><nom>Boubaker</nom><prénom>Seïf</prénom><numéro>197063842117982</numéro><sexe>M</sexe><naissance/><visite date="2014-12-08"/><adresse><étage>2</étage><numéro>220</numéro><rue>Léo Ferré</rue><ville>Crolles</ville><codePostal>38920</codePostal></adresse></patient><patient><nom>Mathieu</nom><prénom>Yacine</prénom><numéro>196056938319118</numéro><sexe>M</sexe><naissance></naissance><visite date="2014-12-08"/><adresse><étage>3</étage><numéro></numéro><rue>Rue Charle Lory</rue><ville>Grenoble</ville><codePostal>38000</codePostal></adresse></patient><patient><nom>Montfort</nom><prénom>Blandine</prénom><numéro>295060701010879</numéro><sexe>F</sexe><naissance></naissance><visite date="2014-12-08"/><adresse><étage></étage><numéro>159</numéro><rue>Cours Berriat</rue><ville>Grenoble</ville><codePostal>38000</codePostal></adresse></patient><patient><nom>Martins</nom><prénom>Benoît</prénom><numéro>196073856308357</numéro><sexe>M</sexe><naissance></naissance><visite date="2014-12-08" intervenant=""/><adresse><étage></étage><numéro>230</numéro><rue>Rue du Martinet</rue><ville>Apprieu</ville><codePostal>38140</codePostal></adresse></patient></patients>
     </cabinet>
